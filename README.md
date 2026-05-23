@@ -1,37 +1,55 @@
-# ¡Hola! Soy Josephtriple7 👋
-
-* 🎓 Estudiante de Ingeniería en Sistemas
-* 📱 Desarrollador Mobile (Kotlin en Android Studio)
-* 💾 Especialista en Modelado y Consultas SQL
-* 📐 Diseño de Arquitectura de Software (Enterprise Architect)
-* 🎮 Gamer por Pasión
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Josephtriple7&style=for-the-badge&color=bc13fe&label=PROFILE+VIEWS" alt="Josephtriple7 Views" />
+</p>
 
 ---
 
-## 🛠️ Mi Inventario Técnico
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MartinVerreynne/martinverreynne/main/wave.gif" width="35px">
+  ¡Hola! Soy Josephtriple7 🎮✨
+</h1>
 
-* **Lenguajes & Frameworks:** Kotlin, Java, Python, SQL (PostgreSQL/MySQL)
-* **Entornos de Desarrollo:** Android Studio, VS Code, IntelliJ IDEA
-* **Herramientas de Diseño:** Enterprise Architect (UML, diagramas de sistemas)
-* **Control de Versiones:** Git & GitHub
+<p align="center">
+  <code>🤖 INGENIERÍA EN SISTEMAS // KOTLIN // SQL // ENTERPRISE ARCHITECT // GAMER</code>
+</p>
 
----
-
-## 💡 Main Quest (Mi Enfoque)
-
-Me apasiona resolver problemas complejos mediante la creación de aplicaciones eficientes y el diseño de arquitecturas lógicas bien estructuradas. Considero que una buena base de datos y un sistema bien planificado son la clave para cualquier software exitoso. 
-
-> "Play hard. Code harder. El bug es el Final Boss y yo tengo los trucos."
-
----
-
-## 🎮 Hobbies & Side Quests
-
-* Superar retos en videojuegos de mundo abierto y estrategia.
-* Investigar sobre las últimas tendencias en optimización de bases de datos.
-* Estructurar ideas de proyectos antes de escribir la primera línea de código.
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/SQL-CCFF00?style=for-the-badge&logo=sqlite&logoColor=black" alt="SQL" />
+  <img src="https://img.shields.io/badge/Enterprise_Architect-005A9C?style=for-the-badge&logo=enterprise&logoColor=white" alt="EA" />
+</p>
 
 ---
 
-📫 **¡Conecta conmigo!**
-* Correo: jmvargas@uamv.edu.ni
+### 🧠 Main Quest (Sobre Mí)
+
+Soy estudiante de **Ingeniería en Sistemas**. Me apasiona el desarrollo móvil utilizando **Kotlin** en **Android Studio** y la optimización de bases de datos con **SQL**. Además, me encanta estructurar y modelar proyectos robustos en **Enterprise Architect** antes de tirar la primera línea de código. 
+
+> "Play hard. Code harder. El bug es el Final Boss y yo tengo los trucos." 🕹️🔥
+
+---
+
+### 📊 Estado del Sistema (Stats en tiempo real)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Josephtriple7&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estadísticas de Josephtriple7" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josephtriple7&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="160" />
+</p>
+
+---
+
+### 🎮 Hobbies & Side Quests
+
+* 🕹️ **Gamer Inside:** Superar retos en videojuegos de mundo abierto y estrategia.
+* 💾 **Data Lover:** Optimizar estructuras de datos y queries complejas.
+* 📐 **Architecture:** Modelar diagramas lógicos y entender cómo encaja todo el sistema.
+
+---
+
+<p align="center">
+  <b>GG WP! Conecta conmigo:</b><br>
+  <a href="mailto:tu-correo@ejemplo.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
