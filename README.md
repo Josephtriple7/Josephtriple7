@@ -33,8 +33,8 @@ Soy estudiante de **Ingeniería en Sistemas**. Me apasiona el desarrollo móvil 
 ### 📊 Estado del Sistema (Stats en tiempo real)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Josephtriple7&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estadísticas de Josephtriple7" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josephtriple7&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=josephtriple7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="160" alt="Estadísticas de Josephtriple7" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephtriple7&layout=compact&theme=tokyonight" height="160" alt="Lenguajes más usados" />
 </p>
 
 ---
@@ -49,7 +49,7 @@ Soy estudiante de **Ingeniería en Sistemas**. Me apasiona el desarrollo móvil 
 
 <p align="center">
   <b>GG WP! Conecta conmigo:</b><br>
-  <a href="mailto:tu-correo@ejemplo.com">
+  <a href="mailto:jmvargas@uam.edu.ni">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
