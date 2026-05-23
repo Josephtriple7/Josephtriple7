@@ -57,16 +57,6 @@
   <img src="curva.png" alt="Curva de Aprendizaje" width="100%">
 </p>
 
-### 📊 Estado del Sistema (Stats)
-<p align="center">
-  <img src="estadosistema.png" alt="Estado del Sistema" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josephtriple7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="160" alt="Estadísticas de Josephtriple7" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephtriple7&layout=compact&theme=tokyonight" height="160" alt="Lenguajes más usados" />
-</p>
-
 ---
 
 <p align="center">
