@@ -30,15 +30,6 @@ Soy estudiante de **Ingeniería en Sistemas**. Me apasiona el desarrollo móvil 
 
 ---
 
-### 📊 Estado del Sistema (Stats en tiempo real)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josephtriple7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="160" alt="Estadísticas de Josephtriple7" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephtriple7&layout=compact&theme=tokyonight" height="160" alt="Lenguajes más usados" />
-</p>
-
----
-
 ### 🎮 Hobbies & Side Quests
 
 * 🕹️ **Gamer Inside:** Superar retos en videojuegos de mundo abierto y estrategia.
