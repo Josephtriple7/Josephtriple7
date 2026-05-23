@@ -1,10 +1,4 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Josephtriple7&style=for-the-badge&color=bc13fe&label=PROFILE+VIEWS" alt="Josephtriple7 Views" />
-</p>
-
----
-
-<p align="center">
   <img src="code GIF.gif" alt="Coding GIF" width="100%">
 </p>
 
@@ -18,17 +12,20 @@
   <img src="level1.png" alt="Level 1" width="100%">
 </p>
 
-### 📱 Desarrollo Mobile
+---
+
 <p align="center">
   <img src="desarrolloandroid2.png" alt="Desarrollo Android" width="100%">
 </p>
 
-### 💾 Bases de Datos
+---
+
 <p align="center">
   <img src="podersql.png" alt="Poder SQL" width="100%">
 </p>
 
-### 📐 Arquitectura de Software
+---
+
 <p align="center">
   <img src="enterprise.png" alt="Enterprise Architect" width="100%">
 </p>
@@ -39,7 +36,8 @@
   <img src="byheart.png" alt="By Heart" width="100%">
 </p>
 
-### 🛠️ Mi Inventario Técnico
+---
+
 <p align="center">
   <img src="inventory.png" alt="Inventario" width="100%">
 </p>
