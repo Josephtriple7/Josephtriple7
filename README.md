@@ -6,12 +6,6 @@
 ---
 
 <p align="center">
-  <img src="level1.png" alt="Level 1" width="100%">
-</p>
-
----
-
-<p align="center">
   <img src="desarrolloandroid2.png" alt="Desarrollo Android" width="100%">
 </p>
 
