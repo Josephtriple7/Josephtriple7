@@ -5,7 +5,43 @@
 ---
 
 <p align="center">
-  <img src="banner.png" alt="JOSEPHTRIPLE7 Header" width="100%">
+  <img src="code GIF.gif" alt="Coding GIF" width="100%">
+</p>
+
+<p align="center">
+  <img src="banner.png" alt="JOSEPHTRIPLE7 Neon Banner" width="100%">
+</p>
+
+---
+
+<p align="center">
+  <img src="level1.png" alt="Level 1" width="100%">
+</p>
+
+### 📱 Desarrollo Mobile
+<p align="center">
+  <img src="desarrolloandroid2.png" alt="Desarrollo Android" width="100%">
+</p>
+
+### 💾 Bases de Datos
+<p align="center">
+  <img src="podersql.png" alt="Poder SQL" width="100%">
+</p>
+
+### 📐 Arquitectura de Software
+<p align="center">
+  <img src="enterprise.png" alt="Enterprise Architect" width="100%">
+</p>
+
+---
+
+<p align="center">
+  <img src="byheart.png" alt="By Heart" width="100%">
+</p>
+
+### 🛠️ Mi Inventario Técnico
+<p align="center">
+  <img src="inventory.png" alt="Inventario" width="100%">
 </p>
 
 <p align="center">
@@ -17,25 +53,35 @@
 
 ---
 
-### 🧠 Main Quest (Sobre Mí)
+<p align="center">
+  <img src="curva.png" alt="Curva de Aprendizaje" width="100%">
+</p>
 
-Soy estudiante de **Ingeniería en Sistemas**. Me apasiona el desarrollo móvil utilizando **Kotlin** en **Android Studio** y la optimización de bases de datos con **SQL**. Además, me encanta estructurar y modelar proyectos robustos en **Enterprise Architect** antes de tirar la primera línea de código. 
+### 📊 Estado del Sistema (Stats)
+<p align="center">
+  <img src="estadosistema.png" alt="Estado del Sistema" width="100%">
+</p>
 
-> "Play hard. Code harder. El bug es el Final Boss y yo tengo los trucos." 🕹️🔥
-
----
-
-### 🎮 Hobbies & Side Quests
-
-* 🕹️ **Gamer Inside:** Superar retos en videojuegos de mundo abierto y estrategia.
-* 💾 **Data Lover:** Optimizar estructuras de datos y queries complejas.
-* 📐 **Architecture:** Modelar diagramas lógicos y entender cómo encaja todo el sistema.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=josephtriple7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="160" alt="Estadísticas de Josephtriple7" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephtriple7&layout=compact&theme=tokyonight" height="160" alt="Lenguajes más usados" />
+</p>
 
 ---
 
 <p align="center">
-  <b>GG WP! Conecta conmigo:</b><br>
+  <img src="gg.png" alt="GG WP" width="100%">
+</p>
+
+<p align="center">
+  <b>Conecta conmigo:</b><br>
   <a href="mailto:jmvargas@uam.edu.ni">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="Horizon Zero Dawn Ps5 GIF by PlayStation.gif" alt="Horizon Zero Dawn" width="100%">
 </p>
