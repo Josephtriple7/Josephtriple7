@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hollow-ezgif.com-video-to-gif-converter.gif" alt="Hollow GIF" width="100%">
+  <img src="hollow-ezgif.com-video-to-gif-converter.gif" alt="Hollow GIF" width="50%">
 </p>
 
 ---
