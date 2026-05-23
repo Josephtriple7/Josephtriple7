@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="code GIF.gif" alt="Coding GIF" width="100%">
+  <img src="hollow.gif" alt="Hollow GIF" width="100%">
 </p>
 
 <p align="center">
-  <img src="banner.png" alt="JOSEPHTRIPLE7 Neon Banner" width="100%">
+  <img src="banner2.png" alt="JOSEPHTRIPLE7 New Banner" width="100%">
 </p>
 
 ---
