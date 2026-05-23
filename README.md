@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="hollow-ezgif.com-video-to-gif-converter.gif" alt="Hollow GIF" width="100%">
+</p>
+
+---
 
 <p align="center">
   <img src="banner2.png" alt="JOSEPHTRIPLE7 New Banner" width="100%">
