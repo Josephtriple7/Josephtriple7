@@ -20,6 +20,10 @@
   <img src="https://img.shields.io/badge/Enterprise_Architect-005A9C?style=for-the-badge&logo=enterprise&logoColor=white" alt="EA" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0ZndpZzZ0ZzR3Ym1wNXF6dHNxOHg0M3BvNTB3YmpxY3A0YTA4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q947QWvJywg7un7Z9M/giphy.gif" width="550" alt="Cyberpunk Gaming Setup" />
+</p>
+
 ---
 
 ### 🧠 Main Quest (Sobre Mí)
